@@ -6,7 +6,7 @@ public class GitTest {
         System.out.println("enenenen");
         System.out.println("enenenen");
         System.out.println("enenenen");
-        //123123
+        //123123集合
     }
     public void test(){
         int i = 0;
