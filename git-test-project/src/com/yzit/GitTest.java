@@ -7,4 +7,8 @@ public class GitTest {
         System.out.println("enenenen");
         System.out.println("enenenen");
     }
+    public void test(){
+        int i = 0;
+        i += 10;
+    }
 }
