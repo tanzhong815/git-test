@@ -6,9 +6,11 @@ public class GitTest {
         System.out.println("enenenen");
         System.out.println("enenenen");
         System.out.println("enenenen");
+        //123123
     }
     public void test(){
         int i = 0;
         i += 10;
+        System.out.println(i);
     }
 }
